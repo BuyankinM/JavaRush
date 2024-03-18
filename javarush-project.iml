@@ -34,5 +34,7 @@
     <orderEntry type="library" name="junit" level="project" />
     <orderEntry type="library" name="hamcrest.core" level="project" />
     <orderEntry type="library" name="jsoup" level="project" />
+    <orderEntry type="library" name="sun.mail.javax" level="project" />
+    <orderEntry type="library" name="apache.httpcomponents.httpclient" level="project" />
   </component>
 </module>
